@@ -1,0 +1,20 @@
+=======================================================================
+||             SSSSS  QQQQQ  U   U    A    RRRR   EEEEE               ||
+||             S      Q   Q  U   U   A A   R   R  E                   ||
+||             SSSSS  Q   Q  U   U  AAAAA  RRRR   EEEE                ||
+||                 S  Q Q Q  U   U A     A R   R  E                   ||
+||             SSSSS  QQQQQQ  UUU  A     A R    R EEEEE               ||
+||                                                                    ||
+||         SSSSS W         W    A    PPPPP PPPPP EEEEE RRRR           ||
+||         S     W    W    W   A A   P   P P   P E     R   R          ||
+||         SSSSS  W  W W  W   AAAAA  PPPPP PPPPP EEEE  RRRR           ||
+||             S  W  W W  W  A     A P     P     E     R   R          ||
+||         SSSSS   WW   WW   A     A P     P     EEEEE R    R         || 
+||                                                                    || 
+||                      555555  000   000   000                       ||
+||                      5      0   0 0   0 0   0                      || 
+||                      55555  0   0 0   0 0   0                      ||
+||                           5 0   0 0   0 0   0                      || 
+||                      55555   000   000   000                       || 
+||                                                                    || 
+||====================================================================|| 
