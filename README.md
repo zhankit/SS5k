@@ -57,9 +57,9 @@ p represent PsychedelicSquare
 
 
 ## Command-line Interface
--text : runs the program in text-only mode. No graphics are displayed. 
-xxx sets the random number generator’s seed to xxx. 
--scriptfile xxx uses xxx for this level's initial board configuration. 
--startlevel n starts the game in level n. The game starts in level 0 if this option is notsupplied.
--testing runs the game in testing mode. During testing
+-text : runs the program in text-only mode. No graphics are displayed. <br />
+xxx sets the random number generator’s seed to xxx. <br />
+-scriptfile xxx uses xxx for this level's initial board configuration. <br />
+-startlevel n starts the game in level n. The game starts in level 0 if this option is notsupplied.<br />
+-testing runs the game in testing mode. During testing<br />
 
